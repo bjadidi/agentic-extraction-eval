@@ -1,0 +1,17 @@
+SAFETY DATA SHEET
+Section 1: Identification
+Product identifier: Toluene
+Supplier: Northwind Chemicals
+CAS No.: 108-88-3
+
+Section 2: Hazard(s) identification
+GHS classification: Flammable liquid, Category 2
+Signal word: Danger
+Keep container tightly closed. Store in a cool, well-ventilated place.
+
+Section 9: Physical and chemical properties
+Flash point: 4 °C
+Boiling point: 111 °C
+pH: Not available
+
+Rev. 9.1 (2021)

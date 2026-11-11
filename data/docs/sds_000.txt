@@ -1,0 +1,17 @@
+SAFETY DATA SHEET
+Section 1: Identification
+Product identifier: Hydrochloric acid 37%
+Supplier: Lakeside Reagents
+CAS No.: 7647-01-0
+
+Section 2: Hazard(s) identification
+GHS classification: Skin corrosion, Category 1B
+Signal word: Danger
+Keep container tightly closed. Store in a cool, well-ventilated place.
+
+Section 9: Physical and chemical properties
+Flash point: Not applicable
+Boiling point: 57 °C
+pH: 0.5
+
+Rev. 1.1 (2025)

@@ -1,0 +1,14 @@
+LAKESIDE REAGENTS -- PRODUCT SAFETY INFORMATION
+Rev. 3.4 (2021)
+
+1. PRODUCT
+   Trade name ........ Isopropanol
+   CAS registry ...... 67-63-0
+2. HAZARDS
+   Classification: Flammable liquid, Category 2; signal word = Danger
+   Precautions: In case of fire: use dry chemical, CO2 or alcohol-resistant foam.
+9. PROPERTIES
+   | Property | Value |
+   | Boiling point / range | 82 °C |
+   | Flash point (closed cup) | 12 °C |
+   | pH (as supplied) | Not available |

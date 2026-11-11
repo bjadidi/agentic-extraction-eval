@@ -1,0 +1,15 @@
+sds // Sodium hydroxide solution 50%
+manufacturer:Northwind Chemicals
+cas#   1310-73-2
+
+hazards
+  ghs: Skin corrosion, Category 1A
+  signal word:   Danger
+
+phys/chem
+  bp: 284.0 °F
+  fp: Not applicable
+  ph: 14.0
+
+notes: Wear protective gloves, eye protection and face protection.
+Rev. 6.4 (2022)

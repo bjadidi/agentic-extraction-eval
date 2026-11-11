@@ -1,0 +1,15 @@
+sds // Acetone
+manufacturer:Granite Fine Chemicals
+cas#   67-64-1
+
+hazards
+  ghs: Flammable liquid, Category 2
+  signal word:   Danger
+
+phys/chem
+  bp: 56 °C
+  fp: -20 °C
+  ph: Not available
+
+notes: Wear protective gloves, eye protection and face protection.
+Rev. 2.7 (2019)

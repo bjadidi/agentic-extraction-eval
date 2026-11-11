@@ -1,0 +1,17 @@
+SAFETY DATA SHEET
+Section 1: Identification
+Product identifier: Acetic acid, glacial
+Supplier: Polaris Lab Supply
+CAS No.: 64-19-7
+
+Section 2: Hazard(s) identification
+GHS classification: Flammable liquid, Category 3
+Signal word: Danger
+In case of fire: use dry chemical, CO2 or alcohol-resistant foam.
+
+Section 9: Physical and chemical properties
+Flash point: 102.2 °F
+Boiling point: 244.4 °F
+pH: 2.4
+
+Rev. 3.3 (2019)

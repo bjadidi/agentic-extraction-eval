@@ -1,0 +1,5 @@
+Product safety summary prepared by Northwind Chemicals. Rev. 8.7 (2022).
+
+This document covers Ethylene glycol (CAS 107-21-1). Under GHS the product is classified as Acute toxicity (oral), Category 4, and the signal word is 'Warning'. Avoid release to the environment. Dispose of contents in accordance with local regulations.
+
+Physical data: the substance boils at 386.6 °F. Its closed-cup flash point is 231.8 °F.

@@ -1,0 +1,14 @@
+MAPLE LEAF SOLVENTS -- PRODUCT SAFETY INFORMATION
+Rev. 1.7 (2025)
+
+1. PRODUCT
+   Trade name ........ Hexane
+   CAS registry ...... 110-54-3
+2. HAZARDS
+   Classification: Flammable liquid, Category 2; signal word = Danger
+   Precautions: Avoid release to the environment. Dispose of contents in accordance with local regulations.
+9. PROPERTIES
+   | Property | Value |
+   | Boiling point / range | 69 °C |
+   | Flash point (closed cup) | -22 °C |
+   | pH (as supplied) | Not available |

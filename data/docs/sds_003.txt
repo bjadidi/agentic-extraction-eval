@@ -1,0 +1,15 @@
+sds // Dimethyl sulfoxide
+manufacturer:Northwind Chemicals
+cas#   67-68-5
+
+hazards
+  ghs: Not classified
+  signal word:   None
+
+phys/chem
+  bp: 189 °C
+  fp: 87 °C
+  ph: Not available
+
+notes: Avoid release to the environment. Dispose of contents in accordance with local regulations.
+Rev. 1.9 (2023)

@@ -1,0 +1,17 @@
+SAFETY DATA SHEET
+Section 1: Identification
+Product identifier: Propylene glycol
+Supplier: Polaris Lab Supply
+CAS No.: 57-55-6
+
+Section 2: Hazard(s) identification
+GHS classification: Not classified
+Signal word: None
+In case of fire: use dry chemical, CO2 or alcohol-resistant foam.
+
+Section 9: Physical and chemical properties
+Flash point: 210.2 °F
+Boiling point: 370.4 °F
+pH: Not available
+
+Rev. 7.8 (2021)

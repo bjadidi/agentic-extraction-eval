@@ -1,0 +1,17 @@
+SAFETY DATA SHEET
+Section 1: Identification
+Product identifier: Xylene (mixed isomers)
+Supplier: Northwind Chemicals
+CAS No.: 1330-20-7
+
+Section 2: Hazard(s) identification
+GHS classification: Flammable liquid, Category 3
+Signal word: Warning
+Keep container tightly closed. Store in a cool, well-ventilated place.
+
+Section 9: Physical and chemical properties
+Flash point: 80.6 °F
+Boiling point: 284.0 °F
+pH: Not available
+
+Rev. 9.5 (2020)

@@ -1,0 +1,15 @@
+sds // Isopropanol
+manufacturer:Lakeside Reagents
+cas#   67-63-0
+
+hazards
+  ghs: Flammable liquid, Category 2
+  signal word:   Danger
+
+phys/chem
+  bp: 82 °C
+  fp: 12 °C
+  ph: Not available
+
+notes: Keep container tightly closed. Store in a cool, well-ventilated place.
+Rev. 2.5 (2023)

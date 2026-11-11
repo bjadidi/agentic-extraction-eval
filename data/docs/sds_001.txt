@@ -1,0 +1,14 @@
+HARBOR INDUSTRIAL -- PRODUCT SAFETY INFORMATION
+Rev. 9.3 (2019)
+
+1. PRODUCT
+   Trade name ........ Acetic acid, glacial
+   CAS registry ...... 64-19-7
+2. HAZARDS
+   Classification: Flammable liquid, Category 3; signal word = Danger
+   Precautions: Keep container tightly closed. Store in a cool, well-ventilated place.
+9. PROPERTIES
+   | Property | Value |
+   | Boiling point / range | 244.4 °F |
+   | Flash point (closed cup) | 102.2 °F |
+   | pH (as supplied) | 2.4 |

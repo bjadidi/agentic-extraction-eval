@@ -1,0 +1,14 @@
+NORTHWIND CHEMICALS -- PRODUCT SAFETY INFORMATION
+Rev. 9.2 (2019)
+
+1. PRODUCT
+   Trade name ........ n-Butanol
+   CAS registry ...... 71-36-3
+2. HAZARDS
+   Classification: Flammable liquid, Category 3; signal word = Warning
+   Precautions: Wear protective gloves, eye protection and face protection.
+9. PROPERTIES
+   | Property | Value |
+   | Boiling point / range | 118 °C |
+   | Flash point (closed cup) | 35 °C |
+   | pH (as supplied) | Not available |

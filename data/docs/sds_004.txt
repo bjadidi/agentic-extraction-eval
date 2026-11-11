@@ -1,0 +1,17 @@
+SAFETY DATA SHEET
+Section 1: Identification
+Product identifier: Ethanol
+Supplier: Lakeside Reagents
+CAS No.: 64-17-5
+
+Section 2: Hazard(s) identification
+GHS classification: Flammable liquid, Category 2
+Signal word: Danger
+Wear protective gloves, eye protection and face protection.
+
+Section 9: Physical and chemical properties
+Flash point: 55.4 °F
+Boiling point: 172.4 °F
+pH: Not available
+
+Rev. 3.4 (2022)

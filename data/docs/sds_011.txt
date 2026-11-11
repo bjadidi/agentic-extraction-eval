@@ -1,0 +1,15 @@
+sds // Ethanol
+manufacturer:Maple Leaf Solvents
+cas#   64-17-5
+
+hazards
+  ghs: Flammable liquid, Category 2
+  signal word:   Danger
+
+phys/chem
+  bp: 172.4 °F
+  fp: 55.4 °F
+  ph: Not available
+
+notes: In case of fire: use dry chemical, CO2 or alcohol-resistant foam.
+Rev. 9.9 (2025)

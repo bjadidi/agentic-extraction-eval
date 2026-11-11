@@ -1,0 +1,14 @@
+GRANITE FINE CHEMICALS -- PRODUCT SAFETY INFORMATION
+Rev. 8.4 (2023)
+
+1. PRODUCT
+   Trade name ........ Xylene (mixed isomers)
+   CAS registry ...... 1330-20-7
+2. HAZARDS
+   Classification: Flammable liquid, Category 3; signal word = Warning
+   Precautions: Keep container tightly closed. Store in a cool, well-ventilated place.
+9. PROPERTIES
+   | Property | Value |
+   | Boiling point / range | 140 °C |
+   | Flash point (closed cup) | 27 °C |
+   | pH (as supplied) | Not available |

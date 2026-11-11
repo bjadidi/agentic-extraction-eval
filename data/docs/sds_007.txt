@@ -1,0 +1,15 @@
+sds // Ethylene glycol
+manufacturer:Maple Leaf Solvents
+cas#   107-21-1
+
+hazards
+  ghs: Acute toxicity (oral), Category 4
+  signal word:   Warning
+
+phys/chem
+  bp: 197 °C
+  fp: 111 °C
+  ph: Not available
+
+notes: Avoid release to the environment. Dispose of contents in accordance with local regulations.
+Rev. 6.7 (2023)
