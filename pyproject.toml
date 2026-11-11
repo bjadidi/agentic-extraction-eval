@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentic-extraction-eval"
+version = "0.1.0"
+description = "Multi-agent document extraction with validation, grounding, model cascading and an evaluation harness."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Behrooz (Bruce) Jadidi" }]
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+plot = ["matplotlib>=3.7"]
+llm = ["anthropic>=0.40"]
+dev = ["pytest>=7"]
+
+[project.scripts]
+agex = "agex.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
