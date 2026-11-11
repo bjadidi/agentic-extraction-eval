@@ -1,0 +1,242 @@
+[
+  {
+    "threshold": 0.5,
+    "strategy": "cascade@0.5",
+    "n_docs": 60,
+    "field_accuracy_auto": 0.989451476793249,
+    "silent_error_rate": 0.010416666666666666,
+    "automation_rate": 0.9875,
+    "doc_straight_through": 0.9,
+    "final_accuracy": 0.9895833333333334,
+    "model_cost_per_doc": 0.0006903916666666667,
+    "total_cost_per_doc": 0.040690391666666666,
+    "latency_p50_s": 3.7800000000000002,
+    "latency_p95_s": 63.78,
+    "per_field_accuracy": {
+      "product_name": 1.0,
+      "manufacturer": 0.9666666666666667,
+      "cas_number": 1.0,
+      "ghs_classification": 1.0,
+      "signal_word": 1.0,
+      "flash_point_c": 0.95,
+      "boiling_point_c": 1.0,
+      "ph": 1.0
+    },
+    "per_layout_accuracy": {
+      "0": 1.0,
+      "1": 0.975,
+      "2": 0.9916666666666667,
+      "3": 0.9916666666666667
+    }
+  },
+  {
+    "threshold": 0.6,
+    "strategy": "cascade@0.6",
+    "n_docs": 60,
+    "field_accuracy_auto": 0.989451476793249,
+    "silent_error_rate": 0.010416666666666666,
+    "automation_rate": 0.9875,
+    "doc_straight_through": 0.9,
+    "final_accuracy": 0.9895833333333334,
+    "model_cost_per_doc": 0.0007088416666666666,
+    "total_cost_per_doc": 0.04070884166666667,
+    "latency_p50_s": 3.7800000000000002,
+    "latency_p95_s": 63.78,
+    "per_field_accuracy": {
+      "product_name": 1.0,
+      "manufacturer": 0.9666666666666667,
+      "cas_number": 1.0,
+      "ghs_classification": 1.0,
+      "signal_word": 1.0,
+      "flash_point_c": 0.95,
+      "boiling_point_c": 1.0,
+      "ph": 1.0
+    },
+    "per_layout_accuracy": {
+      "0": 1.0,
+      "1": 0.975,
+      "2": 0.9916666666666667,
+      "3": 0.9916666666666667
+    }
+  },
+  {
+    "threshold": 0.7,
+    "strategy": "cascade@0.7",
+    "n_docs": 60,
+    "field_accuracy_auto": 0.9915433403805497,
+    "silent_error_rate": 0.008333333333333333,
+    "automation_rate": 0.9854166666666667,
+    "doc_straight_through": 0.8833333333333333,
+    "final_accuracy": 0.9916666666666667,
+    "model_cost_per_doc": 0.0007351916666666667,
+    "total_cost_per_doc": 0.04740185833333334,
+    "latency_p50_s": 3.7800000000000002,
+    "latency_p95_s": 63.78,
+    "per_field_accuracy": {
+      "product_name": 1.0,
+      "manufacturer": 0.9666666666666667,
+      "cas_number": 1.0,
+      "ghs_classification": 1.0,
+      "signal_word": 1.0,
+      "flash_point_c": 0.9666666666666667,
+      "boiling_point_c": 1.0,
+      "ph": 1.0
+    },
+    "per_layout_accuracy": {
+      "0": 1.0,
+      "1": 0.975,
+      "2": 0.9916666666666667,
+      "3": 1.0
+    }
+  },
+  {
+    "threshold": 0.75,
+    "strategy": "cascade@0.75",
+    "n_docs": 60,
+    "field_accuracy_auto": 0.9915433403805497,
+    "silent_error_rate": 0.008333333333333333,
+    "automation_rate": 0.9854166666666667,
+    "doc_straight_through": 0.8833333333333333,
+    "final_accuracy": 0.9916666666666667,
+    "model_cost_per_doc": 0.0007351916666666667,
+    "total_cost_per_doc": 0.04740185833333334,
+    "latency_p50_s": 3.7800000000000002,
+    "latency_p95_s": 63.78,
+    "per_field_accuracy": {
+      "product_name": 1.0,
+      "manufacturer": 0.9666666666666667,
+      "cas_number": 1.0,
+      "ghs_classification": 1.0,
+      "signal_word": 1.0,
+      "flash_point_c": 0.9666666666666667,
+      "boiling_point_c": 1.0,
+      "ph": 1.0
+    },
+    "per_layout_accuracy": {
+      "0": 1.0,
+      "1": 0.975,
+      "2": 0.9916666666666667,
+      "3": 1.0
+    }
+  },
+  {
+    "threshold": 0.8,
+    "strategy": "cascade@0.8",
+    "n_docs": 60,
+    "field_accuracy_auto": 0.9914529914529915,
+    "silent_error_rate": 0.008333333333333333,
+    "automation_rate": 0.975,
+    "doc_straight_through": 0.8166666666666667,
+    "final_accuracy": 0.9916666666666667,
+    "model_cost_per_doc": 0.0009880416666666666,
+    "total_cost_per_doc": 0.08098804166666668,
+    "latency_p50_s": 3.7800000000000002,
+    "latency_p95_s": 63.96,
+    "per_field_accuracy": {
+      "product_name": 1.0,
+      "manufacturer": 0.9666666666666667,
+      "cas_number": 1.0,
+      "ghs_classification": 1.0,
+      "signal_word": 1.0,
+      "flash_point_c": 0.9666666666666667,
+      "boiling_point_c": 1.0,
+      "ph": 1.0
+    },
+    "per_layout_accuracy": {
+      "0": 1.0,
+      "1": 0.975,
+      "2": 0.9916666666666667,
+      "3": 1.0
+    }
+  },
+  {
+    "threshold": 0.85,
+    "strategy": "cascade@0.85",
+    "n_docs": 60,
+    "field_accuracy_auto": 0.9935064935064936,
+    "silent_error_rate": 0.00625,
+    "automation_rate": 0.9625,
+    "doc_straight_through": 0.7166666666666667,
+    "final_accuracy": 0.99375,
+    "model_cost_per_doc": 0.0015336916666666668,
+    "total_cost_per_doc": 0.12153369166666668,
+    "latency_p50_s": 4.32,
+    "latency_p95_s": 64.5,
+    "per_field_accuracy": {
+      "product_name": 1.0,
+      "manufacturer": 0.9666666666666667,
+      "cas_number": 1.0,
+      "ghs_classification": 1.0,
+      "signal_word": 1.0,
+      "flash_point_c": 0.9833333333333333,
+      "boiling_point_c": 1.0,
+      "ph": 1.0
+    },
+    "per_layout_accuracy": {
+      "0": 1.0,
+      "1": 0.9833333333333333,
+      "2": 0.9916666666666667,
+      "3": 1.0
+    }
+  },
+  {
+    "threshold": 0.9,
+    "strategy": "cascade@0.9",
+    "n_docs": 60,
+    "field_accuracy_auto": 0.9977578475336323,
+    "silent_error_rate": 0.0020833333333333333,
+    "automation_rate": 0.9291666666666667,
+    "doc_straight_through": 0.55,
+    "final_accuracy": 0.9979166666666667,
+    "model_cost_per_doc": 0.0019004416666666666,
+    "total_cost_per_doc": 0.22856710833333335,
+    "latency_p50_s": 4.86,
+    "latency_p95_s": 124.5,
+    "per_field_accuracy": {
+      "product_name": 1.0,
+      "manufacturer": 0.9833333333333333,
+      "cas_number": 1.0,
+      "ghs_classification": 1.0,
+      "signal_word": 1.0,
+      "flash_point_c": 1.0,
+      "boiling_point_c": 1.0,
+      "ph": 1.0
+    },
+    "per_layout_accuracy": {
+      "0": 1.0,
+      "1": 0.9916666666666667,
+      "2": 1.0,
+      "3": 1.0
+    }
+  },
+  {
+    "threshold": 0.95,
+    "strategy": "cascade@0.95",
+    "n_docs": 60,
+    "field_accuracy_auto": 1.0,
+    "silent_error_rate": 0.0,
+    "automation_rate": 0.9,
+    "doc_straight_through": 0.4166666666666667,
+    "final_accuracy": 1.0,
+    "model_cost_per_doc": 0.0022491916666666665,
+    "total_cost_per_doc": 0.3222491916666667,
+    "latency_p50_s": 64.5,
+    "latency_p95_s": 125.04,
+    "per_field_accuracy": {
+      "product_name": 1.0,
+      "manufacturer": 1.0,
+      "cas_number": 1.0,
+      "ghs_classification": 1.0,
+      "signal_word": 1.0,
+      "flash_point_c": 1.0,
+      "boiling_point_c": 1.0,
+      "ph": 1.0
+    },
+    "per_layout_accuracy": {
+      "0": 1.0,
+      "1": 1.0,
+      "2": 1.0,
+      "3": 1.0
+    }
+  }
+]

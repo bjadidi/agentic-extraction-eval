@@ -1,0 +1,147 @@
+[
+  {
+    "strategy": "small model only",
+    "n_docs": 60,
+    "field_accuracy_auto": 0.9,
+    "silent_error_rate": 0.1,
+    "automation_rate": 1.0,
+    "doc_straight_through": 1.0,
+    "final_accuracy": 0.9,
+    "model_cost_per_doc": 0.00019984166666666667,
+    "total_cost_per_doc": 0.00019984166666666667,
+    "latency_p50_s": 1.1600000000000001,
+    "latency_p95_s": 1.1600000000000001,
+    "per_field_accuracy": {
+      "product_name": 0.9333333333333333,
+      "manufacturer": 0.8833333333333333,
+      "cas_number": 0.8333333333333334,
+      "ghs_classification": 0.9166666666666666,
+      "signal_word": 0.9166666666666666,
+      "flash_point_c": 0.8666666666666667,
+      "boiling_point_c": 0.85,
+      "ph": 1.0
+    },
+    "per_layout_accuracy": {
+      "0": 0.9583333333333334,
+      "1": 0.9,
+      "2": 0.85,
+      "3": 0.8916666666666667
+    }
+  },
+  {
+    "strategy": "large model only",
+    "n_docs": 60,
+    "field_accuracy_auto": 0.9875,
+    "silent_error_rate": 0.0125,
+    "automation_rate": 1.0,
+    "doc_straight_through": 1.0,
+    "final_accuracy": 0.9875,
+    "model_cost_per_doc": 0.0023981,
+    "total_cost_per_doc": 0.0023981,
+    "latency_p50_s": 3.88,
+    "latency_p95_s": 3.88,
+    "per_field_accuracy": {
+      "product_name": 0.9833333333333333,
+      "manufacturer": 0.9666666666666667,
+      "cas_number": 1.0,
+      "ghs_classification": 0.9833333333333333,
+      "signal_word": 0.9833333333333333,
+      "flash_point_c": 1.0,
+      "boiling_point_c": 0.9833333333333333,
+      "ph": 1.0
+    },
+    "per_layout_accuracy": {
+      "0": 0.9916666666666667,
+      "1": 0.9833333333333333,
+      "2": 0.9833333333333333,
+      "3": 0.9916666666666667
+    }
+  },
+  {
+    "strategy": "small + validation gate -> human",
+    "n_docs": 60,
+    "field_accuracy_auto": 0.9907407407407407,
+    "silent_error_rate": 0.008333333333333333,
+    "automation_rate": 0.9,
+    "doc_straight_through": 0.4,
+    "final_accuracy": 0.9916666666666667,
+    "model_cost_per_doc": 0.00019984166666666667,
+    "total_cost_per_doc": 0.3201998416666667,
+    "latency_p50_s": 61.16,
+    "latency_p95_s": 121.16,
+    "per_field_accuracy": {
+      "product_name": 1.0,
+      "manufacturer": 0.9666666666666667,
+      "cas_number": 1.0,
+      "ghs_classification": 1.0,
+      "signal_word": 1.0,
+      "flash_point_c": 0.9666666666666667,
+      "boiling_point_c": 1.0,
+      "ph": 1.0
+    },
+    "per_layout_accuracy": {
+      "0": 1.0,
+      "1": 0.975,
+      "2": 0.9916666666666667,
+      "3": 1.0
+    }
+  },
+  {
+    "strategy": "cascade without grounding check",
+    "n_docs": 60,
+    "field_accuracy_auto": 0.9725158562367865,
+    "silent_error_rate": 0.027083333333333334,
+    "automation_rate": 0.9854166666666667,
+    "doc_straight_through": 0.8833333333333333,
+    "final_accuracy": 0.9729166666666667,
+    "model_cost_per_doc": 0.0006633916666666667,
+    "total_cost_per_doc": 0.047330058333333334,
+    "latency_p50_s": 3.7800000000000002,
+    "latency_p95_s": 63.78,
+    "per_field_accuracy": {
+      "product_name": 0.9833333333333333,
+      "manufacturer": 0.9166666666666666,
+      "cas_number": 1.0,
+      "ghs_classification": 0.95,
+      "signal_word": 1.0,
+      "flash_point_c": 0.95,
+      "boiling_point_c": 0.9833333333333333,
+      "ph": 1.0
+    },
+    "per_layout_accuracy": {
+      "0": 0.9916666666666667,
+      "1": 0.9666666666666667,
+      "2": 0.9666666666666667,
+      "3": 0.9666666666666667
+    }
+  },
+  {
+    "strategy": "cascade: small -> large -> human",
+    "n_docs": 60,
+    "field_accuracy_auto": 0.9915433403805497,
+    "silent_error_rate": 0.008333333333333333,
+    "automation_rate": 0.9854166666666667,
+    "doc_straight_through": 0.8833333333333333,
+    "final_accuracy": 0.9916666666666667,
+    "model_cost_per_doc": 0.0007351916666666667,
+    "total_cost_per_doc": 0.04740185833333334,
+    "latency_p50_s": 3.7800000000000002,
+    "latency_p95_s": 63.78,
+    "per_field_accuracy": {
+      "product_name": 1.0,
+      "manufacturer": 0.9666666666666667,
+      "cas_number": 1.0,
+      "ghs_classification": 1.0,
+      "signal_word": 1.0,
+      "flash_point_c": 0.9666666666666667,
+      "boiling_point_c": 1.0,
+      "ph": 1.0
+    },
+    "per_layout_accuracy": {
+      "0": 1.0,
+      "1": 0.975,
+      "2": 0.9916666666666667,
+      "3": 1.0
+    }
+  }
+]
