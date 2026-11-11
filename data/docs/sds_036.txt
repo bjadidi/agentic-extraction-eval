@@ -1,0 +1,17 @@
+SAFETY DATA SHEET
+Section 1: Identification
+Product identifier: Isopropanol
+Supplier: Maple Leaf Solvents
+CAS No.: 67-63-0
+
+Section 2: Hazard(s) identification
+GHS classification: Flammable liquid, Category 2
+Signal word: Danger
+Wear protective gloves, eye protection and face protection.
+
+Section 9: Physical and chemical properties
+Flash point: 53.6 °F
+Boiling point: 179.6 °F
+pH: Not available
+
+Rev. 7.3 (2022)

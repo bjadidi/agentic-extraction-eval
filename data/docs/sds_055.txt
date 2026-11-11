@@ -1,0 +1,15 @@
+sds // Methanol
+manufacturer:Polaris Lab Supply
+cas#   67-56-1
+
+hazards
+  ghs: Flammable liquid, Category 2
+  signal word:   Danger
+
+phys/chem
+  bp: 65 °C
+  fp: 11 °C
+  ph: Not available
+
+notes: Avoid release to the environment. Dispose of contents in accordance with local regulations.
+Rev. 6.0 (2021)

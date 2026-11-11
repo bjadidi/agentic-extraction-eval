@@ -1,0 +1,14 @@
+GRANITE FINE CHEMICALS -- PRODUCT SAFETY INFORMATION
+Rev. 8.8 (2020)
+
+1. PRODUCT
+   Trade name ........ Propylene glycol
+   CAS registry ...... 57-55-6
+2. HAZARDS
+   Classification: Not classified; signal word = None
+   Precautions: In case of fire: use dry chemical, CO2 or alcohol-resistant foam.
+9. PROPERTIES
+   | Property | Value |
+   | Boiling point / range | 188 °C |
+   | Flash point (closed cup) | 99 °C |
+   | pH (as supplied) | Not available |

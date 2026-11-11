@@ -1,0 +1,14 @@
+HARBOR INDUSTRIAL -- PRODUCT SAFETY INFORMATION
+Rev. 3.2 (2020)
+
+1. PRODUCT
+   Trade name ........ Ethyl acetate
+   CAS registry ...... 141-78-6
+2. HAZARDS
+   Classification: Flammable liquid, Category 2; signal word = Danger
+   Precautions: Avoid release to the environment. Dispose of contents in accordance with local regulations.
+9. PROPERTIES
+   | Property | Value |
+   | Boiling point / range | 170.6 °F |
+   | Flash point (closed cup) | 24.8 °F |
+   | pH (as supplied) | Not available |

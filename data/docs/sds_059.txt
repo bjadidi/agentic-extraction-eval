@@ -1,0 +1,15 @@
+sds // Hydrogen peroxide 30%
+manufacturer:Maple Leaf Solvents
+cas#   7722-84-1
+
+hazards
+  ghs: Oxidizing liquid, Category 2
+  signal word:   Danger
+
+phys/chem
+  bp: 106 °C
+  fp: Not applicable
+  ph: 3.5
+
+notes: Avoid release to the environment. Dispose of contents in accordance with local regulations.
+Rev. 5.6 (2020)

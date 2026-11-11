@@ -1,0 +1,17 @@
+SAFETY DATA SHEET
+Section 1: Identification
+Product identifier: Glycerol
+Supplier: Lakeside Reagents
+CAS No.: 56-81-5
+
+Section 2: Hazard(s) identification
+GHS classification: Not classified
+Signal word: None
+In case of fire: use dry chemical, CO2 or alcohol-resistant foam.
+
+Section 9: Physical and chemical properties
+Flash point: 160 °C
+Boiling point: 290 °C
+pH: Not available
+
+Rev. 6.0 (2019)

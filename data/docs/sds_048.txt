@@ -1,0 +1,17 @@
+SAFETY DATA SHEET
+Section 1: Identification
+Product identifier: Xylene (mixed isomers)
+Supplier: Granite Fine Chemicals
+CAS No.: 1330-20-7
+
+Section 2: Hazard(s) identification
+GHS classification: Flammable liquid, Category 3
+Signal word: Warning
+Wear protective gloves, eye protection and face protection.
+
+Section 9: Physical and chemical properties
+Flash point: 27 °C
+Boiling point: 140 °C
+pH: Not available
+
+Rev. 2.7 (2021)

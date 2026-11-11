@@ -1,0 +1,15 @@
+sds // Hexane
+manufacturer:Harbor Industrial
+cas#   110-54-3
+
+hazards
+  ghs: Flammable liquid, Category 2
+  signal word:   Danger
+
+phys/chem
+  bp: 69 °C
+  fp: -22 °C
+  ph: Not available
+
+notes: Wear protective gloves, eye protection and face protection.
+Rev. 8.5 (2020)

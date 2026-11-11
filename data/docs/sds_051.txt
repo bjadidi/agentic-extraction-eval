@@ -1,0 +1,15 @@
+sds // Sodium hypochlorite 12%
+manufacturer:Polaris Lab Supply
+cas#   7681-52-9
+
+hazards
+  ghs: Skin corrosion, Category 1B
+  signal word:   Danger
+
+phys/chem
+  bp: 231.8 °F
+  fp: Not applicable
+  ph: 12.5
+
+notes: Wear protective gloves, eye protection and face protection.
+Rev. 4.6 (2019)

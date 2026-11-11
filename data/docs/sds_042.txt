@@ -1,0 +1,5 @@
+Product safety summary prepared by Harbor Industrial. Rev. 6.4 (2023).
+
+This document covers Sodium hydroxide solution 50% (CAS 1310-73-2). Under GHS the product is classified as Skin corrosion, Category 1A, and the signal word is 'Danger'. Avoid release to the environment. Dispose of contents in accordance with local regulations.
+
+Physical data: the substance boils at 284.0 °F. A flash point is not applicable. The pH of the supplied product is approximately 14.0.

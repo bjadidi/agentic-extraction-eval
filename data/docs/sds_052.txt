@@ -1,0 +1,17 @@
+SAFETY DATA SHEET
+Section 1: Identification
+Product identifier: Sodium hydroxide solution 50%
+Supplier: Northwind Chemicals
+CAS No.: 1310-73-2
+
+Section 2: Hazard(s) identification
+GHS classification: Skin corrosion, Category 1A
+Signal word: Danger
+In case of fire: use dry chemical, CO2 or alcohol-resistant foam.
+
+Section 9: Physical and chemical properties
+Flash point: Not applicable
+Boiling point: 140 °C
+pH: 14.0
+
+Rev. 3.5 (2020)

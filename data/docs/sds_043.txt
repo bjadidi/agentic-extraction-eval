@@ -1,0 +1,15 @@
+sds // Hexane
+manufacturer:Northwind Chemicals
+cas#   110-54-3
+
+hazards
+  ghs: Flammable liquid, Category 2
+  signal word:   Danger
+
+phys/chem
+  bp: 69 °C
+  fp: -22 °C
+  ph: Not available
+
+notes: Avoid release to the environment. Dispose of contents in accordance with local regulations.
+Rev. 6.7 (2024)

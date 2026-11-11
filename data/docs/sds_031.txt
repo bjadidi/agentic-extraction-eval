@@ -1,0 +1,15 @@
+sds // Glycerol
+manufacturer:Harbor Industrial
+cas#   56-81-5
+
+hazards
+  ghs: Not classified
+  signal word:   None
+
+phys/chem
+  bp: 290 °C
+  fp: 160 °C
+  ph: Not available
+
+notes: Avoid release to the environment. Dispose of contents in accordance with local regulations.
+Rev. 4.3 (2025)

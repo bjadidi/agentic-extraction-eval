@@ -1,0 +1,5 @@
+Product safety summary prepared by Northwind Chemicals. Rev. 4.7 (2020).
+
+This document covers Acetic acid, glacial (CAS 64-19-7). Under GHS the product is classified as Flammable liquid, Category 3, and the signal word is 'Danger'. In case of fire: use dry chemical, CO2 or alcohol-resistant foam.
+
+Physical data: the substance boils at 244.4 °F. Its closed-cup flash point is 102.2 °F. The pH of the supplied product is approximately 2.4.

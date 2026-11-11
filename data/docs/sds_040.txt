@@ -1,0 +1,17 @@
+SAFETY DATA SHEET
+Section 1: Identification
+Product identifier: Acetone
+Supplier: Northwind Chemicals
+CAS No.: 67-64-1
+
+Section 2: Hazard(s) identification
+GHS classification: Flammable liquid, Category 2
+Signal word: Danger
+Wear protective gloves, eye protection and face protection.
+
+Section 9: Physical and chemical properties
+Flash point: -20 °C
+Boiling point: 56 °C
+pH: Not available
+
+Rev. 2.8 (2024)

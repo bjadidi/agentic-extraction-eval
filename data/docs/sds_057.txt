@@ -1,0 +1,14 @@
+NORTHWIND CHEMICALS -- PRODUCT SAFETY INFORMATION
+Rev. 4.1 (2019)
+
+1. PRODUCT
+   Trade name ........ Xylene (mixed isomers)
+   CAS registry ...... 1330-20-7
+2. HAZARDS
+   Classification: Flammable liquid, Category 3; signal word = Warning
+   Precautions: In case of fire: use dry chemical, CO2 or alcohol-resistant foam.
+9. PROPERTIES
+   | Property | Value |
+   | Boiling point / range | 284.0 °F |
+   | Flash point (closed cup) | 80.6 °F |
+   | pH (as supplied) | Not available |

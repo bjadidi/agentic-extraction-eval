@@ -1,0 +1,14 @@
+GRANITE FINE CHEMICALS -- PRODUCT SAFETY INFORMATION
+Rev. 2.6 (2022)
+
+1. PRODUCT
+   Trade name ........ Hexane
+   CAS registry ...... 110-54-3
+2. HAZARDS
+   Classification: Flammable liquid, Category 2; signal word = Danger
+   Precautions: Wear protective gloves, eye protection and face protection.
+9. PROPERTIES
+   | Property | Value |
+   | Boiling point / range | 156.2 °F |
+   | Flash point (closed cup) | -7.6 °F |
+   | pH (as supplied) | Not available |

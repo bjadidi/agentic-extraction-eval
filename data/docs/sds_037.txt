@@ -1,0 +1,14 @@
+MAPLE LEAF SOLVENTS -- PRODUCT SAFETY INFORMATION
+Rev. 7.7 (2022)
+
+1. PRODUCT
+   Trade name ........ Hydrogen peroxide 30%
+   CAS registry ...... 7722-84-1
+2. HAZARDS
+   Classification: Oxidizing liquid, Category 2; signal word = Danger
+   Precautions: Keep container tightly closed. Store in a cool, well-ventilated place.
+9. PROPERTIES
+   | Property | Value |
+   | Boiling point / range | 106 °C |
+   | Flash point (closed cup) | Not applicable |
+   | pH (as supplied) | 3.5 |

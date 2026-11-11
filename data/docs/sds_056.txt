@@ -1,0 +1,17 @@
+SAFETY DATA SHEET
+Section 1: Identification
+Product identifier: Sodium hypochlorite 12%
+Supplier: Maple Leaf Solvents
+CAS No.: 7681-52-9
+
+Section 2: Hazard(s) identification
+GHS classification: Skin corrosion, Category 1B
+Signal word: Danger
+In case of fire: use dry chemical, CO2 or alcohol-resistant foam.
+
+Section 9: Physical and chemical properties
+Flash point: Not applicable
+Boiling point: 231.8 °F
+pH: 12.5
+
+Rev. 6.8 (2023)

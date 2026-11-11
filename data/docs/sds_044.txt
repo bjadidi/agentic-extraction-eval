@@ -1,0 +1,17 @@
+SAFETY DATA SHEET
+Section 1: Identification
+Product identifier: Xylene (mixed isomers)
+Supplier: Lakeside Reagents
+CAS No.: 1330-20-7
+
+Section 2: Hazard(s) identification
+GHS classification: Flammable liquid, Category 3
+Signal word: Warning
+Avoid release to the environment. Dispose of contents in accordance with local regulations.
+
+Section 9: Physical and chemical properties
+Flash point: 27 °C
+Boiling point: 140 °C
+pH: Not available
+
+Rev. 9.8 (2019)

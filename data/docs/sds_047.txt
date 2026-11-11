@@ -1,0 +1,15 @@
+sds // Toluene
+manufacturer:Harbor Industrial
+cas#   108-88-3
+
+hazards
+  ghs: Flammable liquid, Category 2
+  signal word:   Danger
+
+phys/chem
+  bp: 231.8 °F
+  fp: 39.2 °F
+  ph: Not available
+
+notes: Keep container tightly closed. Store in a cool, well-ventilated place.
+Rev. 4.4 (2019)
